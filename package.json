@@ -1,0 +1,15 @@
+{
+  "name": "learn_a_language",
+  "version": "1.0.0",
+  "description": "Proiect la PBR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "pos-tagger.js": "^1.0.8"
+  }
+}

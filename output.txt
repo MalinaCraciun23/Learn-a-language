@@ -1,0 +1,6 @@
+TRUE
+CLIPS> 
+(run)
+RESULT: SUCCESS
+CLIPS> 
+(dribble-off)
